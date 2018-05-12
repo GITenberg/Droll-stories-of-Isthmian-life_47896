@@ -1,10 +1,16 @@
 _repo: Droll-stories-of-Isthmian-life_47896
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47896-h/images/cover.jpg
 creator:
   author:
     agent_name: Saxton, Evelyn
     gutenberg_agent_id: '44517'
     url: http://www.gutenberg.org/2009/agents/44517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47896#Droll-stories-of-Isthmian-life
 gutenberg_issued: '2015-01-06'
 gutenberg_type: Text
 identifiers:
